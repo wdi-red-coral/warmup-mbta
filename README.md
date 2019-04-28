@@ -1,3 +1,3 @@
-*** Repo of solution of Mbta ***
+***Repo of solution of Mbta***
 
 [Solution for](mbta.js)
