@@ -1,3 +1,3 @@
 ***The warmup of MBTA***
 
-[Solution for](mbta.js)
+[Solution for MBTA](mbta.js)
