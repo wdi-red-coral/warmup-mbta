@@ -1,3 +1,3 @@
-***Repo of solution of Mbta***
+***The warmup of MBTA***
 
 [Solution for](mbta.js)
